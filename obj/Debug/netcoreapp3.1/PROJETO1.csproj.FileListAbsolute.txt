@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\bin\Debug\netcoreapp3.1\PROJETO1.exe
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\bin\Debug\netcoreapp3.1\PROJETO1.deps.json
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\bin\Debug\netcoreapp3.1\PROJETO1.runtimeconfig.json
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\bin\Debug\netcoreapp3.1\PROJETO1.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\bin\Debug\netcoreapp3.1\PROJETO1.dll
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\bin\Debug\netcoreapp3.1\PROJETO1.pdb
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.dll
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.pdb
+C:\Users\guilh\Desktop\Projetos Senai\BACKEND\CONSOLE\PROJETO1\obj\Debug\netcoreapp3.1\PROJETO1.genruntimeconfig.cache
